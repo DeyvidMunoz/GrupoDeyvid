@@ -1,0 +1,4 @@
+Message[302] C:\USERS\USUARIO\DESKTOP\HOJA2.X\HOJA2.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\USUARIO\DESKTOP\HOJA2.X\HOJA2.ASM 31 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\USUARIO\DESKTOP\HOJA2.X\HOJA2.ASM 35 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\USUARIO\DESKTOP\HOJA2.X\HOJA2.ASM 103 : Found directive in column 1. (end)

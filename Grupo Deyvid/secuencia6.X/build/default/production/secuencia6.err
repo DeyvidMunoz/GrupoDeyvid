@@ -1,0 +1,4 @@
+Message[302] C:\USERS\USUARIO\DESKTOP\SECUENCIA6.X\SECUENCIA6.ASM 28 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\USUARIO\DESKTOP\SECUENCIA6.X\SECUENCIA6.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\USUARIO\DESKTOP\SECUENCIA6.X\SECUENCIA6.ASM 33 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\USUARIO\DESKTOP\SECUENCIA6.X\SECUENCIA6.ASM 91 : Found directive in column 1. (end)

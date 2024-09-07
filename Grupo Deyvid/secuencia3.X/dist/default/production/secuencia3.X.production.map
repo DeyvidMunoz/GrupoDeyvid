@@ -1,0 +1,47 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Thu Sep 05 08:44:01 2024
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000066
+                   .cinit    romdata   0x000033    program   0x000004
+.config_2007_BUILD/DEFAULT/PRODUCTION/SECUENC       code   0x002007    program   0x000002
+.config_2008_BUILD/DEFAULT/PRODUCTION/SECUENC       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000034      
+                            0x002007    0x002008      
+            55 out of 8455 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     IND1   0x00002d    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+                    ISEC3   0x000008    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+                    REP_1   0x000026    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+                    REP_2   0x000028    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+                  RETARDO   0x000024    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+               SECUENCIA3   0x000015    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+                            0x000033    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    ISEC3   0x000008    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+               SECUENCIA3   0x000015    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+                  RETARDO   0x000024    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+                    REP_1   0x000026    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+                    REP_2   0x000028    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+                     IND1   0x00002d    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+                            0x000033    program     static C:\Users\usuario\Desktop\secuencia3.X\secuencia3.asm
+
+

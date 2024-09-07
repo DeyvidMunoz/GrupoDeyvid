@@ -1,0 +1,49 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Thu Sep 05 08:23:12 2024
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000074
+                   .cinit    romdata   0x00003a    program   0x000004
+.config_2007_BUILD/DEFAULT/PRODUCTION/HOJA2.O       code   0x002007    program   0x000002
+.config_2008_BUILD/DEFAULT/PRODUCTION/HOJA2.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00003b      
+                            0x002007    0x002008      
+            62 out of 8455 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    HOJA2   0x000013    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                   IHOJA2   0x000008    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                    REP_1   0x000021    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                    REP_2   0x000023    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                  RETARDO   0x00001f    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                     XOR2   0x000028    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                     XOR6   0x00002c    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                     XORE   0x000034    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   IHOJA2   0x000008    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                    HOJA2   0x000013    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                  RETARDO   0x00001f    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                    REP_1   0x000021    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                    REP_2   0x000023    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                     XOR2   0x000028    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                     XOR6   0x00002c    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+                     XORE   0x000034    program     static C:\Users\usuario\Desktop\hoja2.X\hoja2.asm
+
+
